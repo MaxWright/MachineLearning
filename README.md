@@ -1,5 +1,5 @@
-# QLearning
-Playing with QLearning
+# Machine Learning
+Playing with Machine Learning
 
 ## basics.cpp
 Uses QLearning to find the shortest path for reaching the goal state. Shortest path defined by the amount of states passed through
